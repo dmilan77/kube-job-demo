@@ -1,5 +1,5 @@
 # kube-job-demo
-# build docker 
+# Steps
 ```
 docker build -t dmilan/mytestpython:v3 .
 docker push dmilan/mytestpython:v3 
